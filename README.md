@@ -20,6 +20,6 @@
 | Description | Create Github Repo and Kali VM for class and complete lunix fundamentals on tryandhackme |
 | Due Date | 6-FEB-2024 |
 | Status | Done |
-| Location | https://github.com/RaulSMedina/NetApp_ssmedina2/tree/main/helloGit |
+| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A0-LinuxFundamentals |
 | Self Grade | 100/100 |
 | Notes | Completed all sections |
