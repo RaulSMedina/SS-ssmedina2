@@ -12,6 +12,18 @@
 
 ## Assignments
 
+### Assignment #1
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | Environment Variable and Set-UIC Lab |
+| Description | Understand what risks such privileged programs face how they can be attacked if the code is done poorly |
+| Due Date | 14-FEB-2024 |
+| Status | Just writing the paper |
+| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A0-LinuxFundamentals |
+| Self Grade | 100/100 |
+| Notes | There are two subfolders within A1-SetUID. One is all the snapshots I toke for the assighment and the other is all the work I did for the assighment. |
+
 ### Assignment #0
 
 | Name | Sebastian M. |
@@ -23,3 +35,4 @@
 | Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A0-LinuxFundamentals |
 | Self Grade | 100/100 |
 | Notes | Completed all sections |
+
