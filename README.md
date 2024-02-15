@@ -19,10 +19,10 @@
 | Name | Environment Variable and Set-UIC Lab |
 | Description | Understand what risks such privileged programs face how they can be attacked if the code is done poorly |
 | Due Date | 14-FEB-2024 |
-| Status | Just writing the paper |
-| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A0-LinuxFundamentals |
+| Status | Done |
+| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A1-SetUID |
 | Self Grade | 100/100 |
-| Notes | There are two subfolders within A1-SetUID. One is all the snapshots I toke for the assighment and the other is all the work I did for the assighment. |
+| Notes | There are two subfolders within A1-SetUID. One is all the snapshots I toke for the assighment and the other is all the work I did for the assighment. For the snapshot subfolder if the png file is named screenshot(somenumber) I did not use them in my write up but it still shows some work that has been done during this lab. Please let me know if you have any questions and if you don't like this format let me know and I wont do it in the furture. |
 
 ### Assignment #0
 
