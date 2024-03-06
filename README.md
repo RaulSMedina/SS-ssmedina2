@@ -12,6 +12,18 @@
 
 ## Assignments
 
+### Assignment #2
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name |Vulnerability Scanning and Penetration Testing |
+| Description | Go over what are vulnerabilities and explot and then pratice both in Metasploit. |
+| Due Date | 4-March-2024 |
+| Status | half done |
+| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A2-PenTest |
+| Self Grade | 60/100 |
+| Notes | Netowork of VM stoped working on laptop had to do this on my desktop will keep you updated if I can not figure out what wrong with my laptop network |
+
 ### Assignment #1
 
 | Name | Sebastian M. |
