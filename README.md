@@ -12,7 +12,7 @@
 
 ## Assignments
 
-### Assignment #2
+### Assignment #3
 
 | Name | Sebastian M. |
 | :--- | :--- |
@@ -23,6 +23,8 @@
 | Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A3-ReverseEng |
 | Self Grade | 100/100 |
 | Notes |  |
+
+### Assignment #2
 
 | Name | Sebastian M. |
 | :--- | :--- |
