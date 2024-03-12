@@ -22,7 +22,7 @@
 | Status | Done |
 | Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A3-ReverseEng |
 | Self Grade | 100/100 |
-| Notes |  |
+| Notes | Completed all the sections |
 
 ### Assignment #2
 
