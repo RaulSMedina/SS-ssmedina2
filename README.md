@@ -16,6 +16,16 @@
 
 | Name | Sebastian M. |
 | :--- | :--- |
+| Name | Reverse Engineering Assignment |
+| Description | Find out what type of file and the passwords for the athenticator file then edit the binary to execute /bin/sh. |
+| Due Date |11-March-2024 |
+| Status | Done |
+| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A3-ReverseEng |
+| Self Grade | 100/100 |
+| Notes |  |
+
+| Name | Sebastian M. |
+| :--- | :--- |
 | Name |Vulnerability Scanning and Penetration Testing |
 | Description | Go over what are vulnerabilities and explot and then pratice both in Metasploit. |
 | Due Date | 4-March-2024 |
