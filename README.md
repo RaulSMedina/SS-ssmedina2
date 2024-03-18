@@ -12,6 +12,18 @@
 
 ## Assignments
 
+### Assignment #4
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | Ghidra SRE Challenge |
+| Description | Go though a demo in class about how to use Ghidra a Reverse Engineering tool. |
+| Due Date |18-March-2024 |
+| Status | Done |
+| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A4-Ghidra |
+| Self Grade | 100/100 |
+| Notes | Completed all the sections that we coverd in class witch were examin the "puzzle" binary and find three secrets in the binary. |
+
 ### Assignment #3
 
 | Name | Sebastian M. |
