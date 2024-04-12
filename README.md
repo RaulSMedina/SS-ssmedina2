@@ -12,6 +12,18 @@
 
 ## Assignments
 
+### Assignment #5
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | Stack Overflow with Bash |
+| Description | Complete a StackOverflow Exploitation using Bash and Mitigation. |
+| Due Date |11-April-2024 |
+| Status | In Progress |
+| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A5-stackoverflowbash |
+| Self Grade | 100/100 |
+| Notes | I have an extension for this assighment. |
+
 ### Assignment #4
 
 | Name | Sebastian M. |
