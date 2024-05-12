@@ -12,6 +12,55 @@
 
 ## Assignments
 
+### Assignment Final Project
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | Final Projects |
+| Description | Write a Summary about the NCAE Cybergames. |
+| Due Date |10-May-2024 |
+| Status | In Progress |
+| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/Final |
+| Self Grade | 100/100 |
+| Notes |  |
+
+### Assignment #8
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | CTF |
+| Description |  |
+| Due Date |  |
+| Status | Done |
+| Location |  |
+| Self Grade | 90/100 |
+| Notes |  |
+
+### Assignment #7
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | Pwntools |
+| Description |  |
+| Due Date |  |
+| Status | Done |
+| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A6-seedoverflow |
+| Self Grade | 90/100 |
+| Notes |  |
+
+
+### Assignment #6
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | SEED BUffer Overflow (SetUID) |
+| Description | Complete Buffer-Overflow-Attack Lab (Set-UID Version) from SEED labs. |
+| Due Date |22-April-2024 |
+| Status | Done |
+| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A6-seedoverflow |
+| Self Grade | 90/100 |
+| Notes |  |
+
 ### Assignment #5
 
 | Name | Sebastian M. |
