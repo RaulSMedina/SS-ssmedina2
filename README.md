@@ -70,8 +70,8 @@
 | Due Date |11-April-2024 |
 | Status | In Progress |
 | Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A5-stackoverflowbash |
-| Self Grade | 100/100 |
-| Notes | I have an extension for this assighment. |
+| Self Grade | 75/100 |
+| Notes | I have an extension for this assighment. Could not get everything to work in the assighment but I did as much as I can.|
 
 ### Assignment #4
 
