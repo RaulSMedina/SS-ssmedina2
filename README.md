@@ -29,10 +29,10 @@
 | Name | Sebastian M. |
 | :--- | :--- |
 | Name | CTF |
-| Description |  |
-| Due Date |  |
+| Description | Complete CTF challenges on ctflearn.com |
+| Due Date | 06-May-2024 |
 | Status | Done |
-| Location |  |
+| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A8-CTF |
 | Self Grade | 90/100 |
 | Notes |  |
 
@@ -41,11 +41,11 @@
 | Name | Sebastian M. |
 | :--- | :--- |
 | Name | Pwntools |
-| Description |  |
-| Due Date |  |
+| Description | Complete a Stack overflow exploitation using python pwntools |
+| Due Date | 29-April-2024 |
 | Status | Done |
-| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A6-seedoverflow |
-| Self Grade | 90/100 |
+| Location | https://github.com/RaulSMedina/SS-ssmedina2/tree/main/A7-pwntools |
+| Self Grade | 30/100 |
 | Notes |  |
 
 
